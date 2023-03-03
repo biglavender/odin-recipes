@@ -1,0 +1,18 @@
+* { 
+    background-color: beige;
+    font-family: "Tahoma", sans-serif;
+
+}
+
+h1 {
+    color:purple; 
+}
+
+h2 {
+    color: purple;
+}
+
+.final-dish {
+    height: auto;
+    width: 700px;
+}
